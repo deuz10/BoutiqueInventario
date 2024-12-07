@@ -1,4 +1,4 @@
-### Ejemplo de Archivo `README.md` para la Aplicación de Gestión de Inventario
+
 
 ### Descripción
 Esta aplicación está diseñada para facilitar la gestión de inventarios mediante la creación de recibos, registro de ventas, alertas de bajo stock y administración del inventario (agregar/eliminar productos). Su arquitectura se basa en un modelo cliente-servidor utilizando Java y frameworks modernos.
