@@ -1,0 +1,11 @@
+boutiqueInventory\Main.class
+boutiqueInventory\ui\MainFrame$3.class
+boutiqueInventory\ui\MainFrame$4.class
+boutiqueInventory\ui\Product.class
+boutiqueInventory\utils\DatabaseConnection.class
+boutiqueInventory\dao\ProductDAO.class
+boutiqueInventory\models\Product.class
+boutiqueInventory\ui\MainFrame$2.class
+boutiqueInventory\ui\MainFrame$1.class
+boutiqueInventory\ui\LoginPage.class
+boutiqueInventory\ui\MainFrame.class
