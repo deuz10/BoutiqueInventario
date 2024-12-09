@@ -44,11 +44,8 @@ La aplicación de Gestión de Inventario permite a los usuarios realizar tareas 
 
 ---
 
-4.Arquitectura
-El sistema utiliza una arquitectura modular cliente-servidor:  
-
-**Diagrama de Arquitectura**  
-
+### **Diagrama de Arquitectura**  
+```plaintext
           [ Cliente ]
          (JavaFX/UI Web)
               |
